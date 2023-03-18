@@ -4,4 +4,12 @@
 <p>This project have following specification</p> 
 <ul>
   <li>
-    re
+    attractive background
+  </li>
+  <li>
+    responsive e-mail forms 
+  </li>
+  <li>
+    responsive buttons 
+  </li>
+  <p>and many more things open it and see it</p>
